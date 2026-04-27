@@ -1,0 +1,13 @@
+---
+title: "test repo code"
+author: "sofia favela"
+format: pdf
+---
+
+# 1. Set Up 
+```{r}
+#| labe: packages 
+
+library(tidyverse)
+```
+
