@@ -15,4 +15,4 @@ What are they used for ?
 # Rendered output
 
 Where can people find the rendered output of code run in this repository?
-the rendered pdf is [here]https://github.com/sofiafavela/193DDtest/blob/main/test-qmd-render.pdf
+the rendered pdf is [here](https://github.com/sofiafavela/193DDtest/blob/main/Code/test-qmd-render.pdf)
